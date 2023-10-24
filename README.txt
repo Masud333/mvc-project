@@ -1,3 +1,5 @@
+# Description
+
 This repository contains a project that demonstrates how to create a simple web application using the Model-View-Controller (MVC) pattern in PHP. The project consists of the following files:
 
 - index.php: The main file that handles the requests and responses of the web application. It uses the Front Controller pattern to route the requests to the appropriate controllers and views.
