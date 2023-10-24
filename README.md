@@ -11,5 +11,5 @@ This repository contains a project that demonstrates how to create a simple web 
 - config/: A folder that contains the configuration files of the web application, such as database credentials and application settings.
 
 # Images
-![image](https://github.com/Masud333/mvc-project/assets/78741570/02feb858-9a56-40a3-b58b-b88b93f9cc30)
+<img src="https://github.com/Masud333/mvc-project/assets/78741570/02feb858-9a56-40a3-b58b-b88b93f9cc30" width="300">
 
